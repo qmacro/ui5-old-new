@@ -1,0 +1,12 @@
+{
+	"fruit" : [
+		{
+			"type" : "Apple",
+			"stock" : 82
+		},
+		{
+			"type" : "Banana",
+			"stock" : 11
+		}
+	]
+}
